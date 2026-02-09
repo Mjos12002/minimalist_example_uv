@@ -1,3 +1,8 @@
 time_period,rainfall,mean_temperature,disease_cases,location
 2023-05,10,30,200,loc1
 2023-06,2,30,100,loc1
+2023-07,4,25,150,loc1
+2023-08,5,30,120,loc1
+2023-09,6,32,250,loc1
+2023-10,7,23,300,loc1
+2023-11,3,20,260,loc1
